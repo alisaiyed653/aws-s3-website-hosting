@@ -12,7 +12,7 @@ Create S3 Bucket
 The bucket name was globally unique, ensuring no conflicts.
 Region: London (eu-west-2) for low-latency access.
 
-![screenshot of bucket created](images/
+![screenshot of bucket created](images/screenshot 2024-10-19 111038.png)
 
 Upload Website Files
 
